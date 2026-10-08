@@ -1,16 +1,20 @@
-## Hi there 👋
+# HUYY BUSSENG!!, I'm Alcris Joshua D. Pelmoka
+<i>"It's better to be late than never"</i>
+‎</p>
 
-<!--
-**alcrispelmoka/alcrispelmoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Academic Background
+*   🏫 **University:** Nueva Vizcaya State University (NVSU)
+*   📜 **Course:** Bachelor of Science in Information Technology (BSIT)
+*   🎯 **Specialization:** Network Development Management (NDM) - 3rd Year
+*   🚀 **Current Focus:** Learning advanced network infrastructures, network security, and systems administration.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools (Learning & Using)
+*   🌐 **Networking & Systems:** Cisco Packet Tracer, Subnetting, Routing & Switching
+*   💻 **Programming & Scripting Languages:** HTML, CSS, Python, Java
+*   🧰 **Tools & Editors:** Git, GitHub, VS Code, Windows / Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![My GitHub Stats](https://vercel.app)
+
+---
+*📩 Feel free to explore my repositories or reach out to me for collaborations!*
